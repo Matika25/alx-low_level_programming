@@ -1,1 +1,1 @@
-Variables if else while
+Variable if else while
